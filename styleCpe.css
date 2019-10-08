@@ -1,0 +1,90 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: 'SetFire';
+	src: url('documents/SetFireToTheRain.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	background-image: url(images/Fond_gris_vert.jpg);
+	background-repeat: repeat;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.texte {
+	font-family: 'SetFire';
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000;
+}
+
+.tumbs{
+	float: left;
+	height: 90px;
+	width: 122px;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+a:link {
+	font-family: 'SetFire';
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #00F;
+	text-decoration: underline;
+}
+a.bleu:link {
+	font-family: 'SetFire';
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #00F;
+	text-decoration: underline;
+}
+a:hover {
+	font-family: 'SetFire';
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #0FF;
+	text-decoration: underline;
+}
+a.turquoise:hover {
+	font-family: 'SetFire';
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #0FF;
+	text-decoration: underline;
+}
+a:visited {
+	font-family: 'SetFire';
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #F0F;
+	text-decoration: underline;
+} 
